@@ -1,1 +1,5 @@
-This is a respository which include the fundamental theory of statistics.
+# Statistics and Machine Learning Summary
+
+This repository contains the summary of the statistics, data science and machine learning theories and concepts.
+
+
